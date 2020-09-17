@@ -1,0 +1,502 @@
+// 
+#my-projects {
+    margin-left: 0px;
+}
+
+// Title of Projects section
+#project-section-title {
+    font-family: 'Permanent Marker', cursive;
+    margin-top: 80px;
+    color: white;
+    padding-top: 20px;
+    margin-bottom: 40px;
+}
+
+// Row 1 of cards
+#cards-row1 {
+    margin-left: 65px;
+    margin-bottom: 40px;
+}
+
+
+// Start of Avengers Word Guess card
+#card-avengers {
+    width: 17rem;
+    margin-left: 0px;
+}
+
+#card-img-avengers {
+    visibility: top;
+}
+
+#card-body-avengers {
+    background: black;
+}
+
+#card-title-avengers {
+    font-family: 'Fugaz One', cursive;
+    color: purple;
+}
+
+#card-text-avengers {
+    font-family: 'ABeeZee', sans-serif;
+    color: white;
+}
+
+#button-avengers {
+    font-family: 'Acme', sans-serif;
+    font-size: 20px;
+    width: 75px;
+    text-decoration: underline;
+    background-color: purple;
+    border: none;
+    color: black;
+}
+
+// End of Avengers Word Guess card
+
+
+// Start of Super Arena card
+#card-super {
+    width: 17rem;
+    margin-left: 283px;
+    margin-top: -408px;
+    height: 410px;
+}
+
+#card-img-super {
+    visibility: top;
+}
+
+#card-body-super {
+    background-color: black;
+}
+
+#card-title-super {
+    font-family: 'Fugaz One', cursive;
+    color: palevioletred;
+}
+
+#card-text-super {
+    color: white;
+    font-family: 'ABeeZee', sans-serif;
+}
+
+#button-super {
+    color: black;
+    background-color: palevioletred;
+    font-family: 'Acme', sans-serif;
+    font-size: 20px;
+    width: 75px;
+    border: none;
+    text-decoration: underline;
+}
+
+// End of Super card
+
+
+// Start of Trivia card
+#card-trivia {
+    width: 17rem;
+    margin-left: 565px;
+    height: 408px;
+    margin-top: -408px;
+}
+
+#card-img-trivia {
+    visibility: top;
+}
+
+#card-body-trivia {
+    background-color: black;
+}
+
+#card-title-trivia {
+    font-family: 'Fugaz One', cursive;
+    color: silver;
+}
+
+#card-text-trivia {
+    color: white;
+    font-family: 'ABeeZee', sans-serif;
+}
+
+#button-trivia {
+    color: black;
+    background-color: silver;
+    font-family: 'Acme', sans-serif;
+    font-size: 20px;
+    width: 75px;
+    border: none;
+    text-decoration: underline;
+}
+
+// End of Trivia card
+
+
+// Start of Train card
+#card-train {
+    width: 17rem;
+    margin-left: 850px;
+    height: 408px;
+    margin-top: -408px;
+}
+
+#card-img-train {
+    visibility: top;
+}
+
+#card-body-train {
+    background-color: black;
+}
+
+#card-title-train {
+    font-family: 'Fugaz One', cursive;
+    color: blue;
+    margin-top: -10px;
+}
+
+#card-text-train {
+    color: white;
+    font-family: 'ABeeZee', sans-serif;
+    margin-top: -6px;
+}
+
+#button-train {
+    color: black;
+    background-color: blue ;
+    font-family: 'Acme', sans-serif;
+    font-size: 20px;
+    width: 75px;
+    border: none;
+    text-decoration: underline;
+    margin-top: 0px;
+}
+
+// End of Train card
+
+
+// Row 2 of cards
+
+
+
+// Start of Giftastic card
+#card-giftastic {
+    width: 17rem;
+    margin-left: 0px;
+    margin-top: 25px;
+    height: 445px;
+
+}
+
+#card-img-giftastic {
+    visibility: top;
+}
+
+#card-body-giftastic {
+    background-color: black;
+}
+
+#card-title-giftastic {
+    font-family: 'Fugaz One', cursive;
+    color: brown;
+    margin-top: -10px;
+}
+
+#card-text-giftastic {
+    color: white;
+    font-family: 'ABeeZee', sans-serif;
+}
+
+#button-giftastic {
+    color: black;
+    background-color: brown;
+    font-family: 'Acme', sans-serif;
+    font-size: 20px;
+    width: 75px;
+    border: none;
+    text-decoration: underline;
+    margin-top: 20px;
+}
+
+// End of Giftastic card
+
+
+// Start of Restaurant card
+#card-restaurant {
+    width: 17rem;
+    margin-left: 283px;
+    margin-top: -446px;
+}
+
+#card-img-restaurant {
+    visibility: top;
+    height: 153px;
+}
+
+#card-body-restaurant {
+    background-color: black;
+}
+
+#card-title-restaurant {
+    font-family: 'Fugaz One', cursive;
+    color: yellow;
+    margin-top: -10px;
+}
+
+#card-text-restaurant {
+    color: white;
+    font-family: 'ABeeZee', sans-serif;
+}
+
+#button-restaurant {
+    color: black;
+    background-color: yellow;
+    font-family: 'Acme', sans-serif;
+    font-size: 20px;
+    width: 75px;
+    border: none;
+    text-decoration: underline;
+}
+
+// End of Restaurant card
+
+
+// Start of Match card
+#card-match {
+    width: 17rem;
+    margin-left: 566px;
+    margin-top: -448px;
+    padding-top: -100px;
+}
+
+#card-img-match {
+    visibility: top;
+    height: 155px;
+}
+
+#card-body-match {
+    background-color: black;
+}
+
+#card-title-match {
+    font-family: 'Fugaz One', cursive;
+    color: teal;
+    margin-top: -10px;
+}
+
+#card-text-match {
+    color: white;
+    font-family: 'ABeeZee', sans-serif;
+}
+
+#button-match {
+    color: black;
+    background-color: teal;
+    font-family: 'Acme', sans-serif;
+    font-size: 20px;
+    width: 75px;
+    border: none;
+    text-decoration: underline;
+}
+
+// End of Match card
+
+
+// Start of Clicky card
+#card-clicky {
+    width: 17rem;
+    margin-left: 850px;
+    margin-top: -449px;
+}
+
+#card-img-clicky {
+    visibility: top;
+    height: 145px;
+}
+
+#card-body-clicky {
+    background-color: black;
+}
+
+#card-title-clicky {
+    font-family: 'Fugaz One', cursive;
+    color: green;
+}
+
+#card-text-clicky {
+    color: white;
+    font-family: 'ABeeZee', sans-serif;
+}
+
+#button-clicky {
+    color: black;
+    background-color: green;
+    font-family: 'Acme', sans-serif;
+    font-size: 20px;
+    width: 75px;
+    border: none;
+    text-decoration: underline;
+}
+
+// End of Clicky card
+
+// End Row 2 of cards
+
+
+
+// Start Row 3 of cards
+#cards-row3 {
+    padding-bottom: 40px;
+    margin-left: 65px;
+}
+
+// Start of iReady card
+#card-iready {
+    width: 17rem;
+    margin-top: 20px;
+    padding-top: -100px;
+    height: 454px;
+}
+
+#card-img-iready {
+    visibility: top;
+}
+
+#card-body-iready {
+    background-color: black;
+}
+
+#card-title-iready {
+    font-family: 'Fugaz One', cursive;
+    color: greenyellow;
+}
+
+#card-text-iready {
+    color: white;
+    font-family: 'ABeeZee', sans-serif;
+    margin-top: 25px;
+}
+
+#button-iready {
+    color: black;
+    background-color: greenyellow;
+    font-family: 'Acme', sans-serif;
+    font-size: 20px;
+    width: 75px;
+    border: none;
+    text-decoration: underline;
+    margin-top: 30px;
+}
+
+// End of iReady card
+
+
+// Start of Dr.Lopez card
+#card-drLopez {
+    width: 17rem;
+    margin-left: 283px;
+    margin-top: -455px;
+}
+
+#card-body-drLopez {
+    background-color: black;
+}
+
+#card-title-drLopez {
+    font-family: 'Fugaz One', cursive;
+    color: aqua;
+}
+
+#card-text-drLopez {
+    color: white;
+    font-family: 'ABeeZee', sans-serif;
+}
+
+#button-drLopez {
+    color: black;
+    background-color: aqua;
+    font-family: 'Acme', sans-serif;
+    font-size: 20px;
+    width: 75px;
+    border: none;
+    text-decoration: underline;
+}
+
+// End of Dr.Lopez card 
+
+
+// Start of Book card
+#card-book {
+    width: 17rem;
+    margin-left: 565px;
+    margin-top: -457px;
+    padding-top: -100px;
+}
+
+#card-img-book {
+    height: 154px;
+}
+
+#card-body-book {
+    background-color: black;
+}
+
+#card-title-book {
+    font-family: 'Fugaz One', cursive;
+    color: orange;
+}
+
+#card-text-book {
+    color: white;
+    font-family: 'ABeeZee', sans-serif;
+}
+
+#button-book {
+    color: black;
+    background-color: orange;
+    font-family: 'Acme', sans-serif;
+    font-size: 20px;
+    width: 75px;
+    border: none;
+    text-decoration: underline;
+}
+
+// End of Book card
+
+
+// Start of Mongo card
+#card-mongo {
+    width: 17rem;
+    margin-left: 850px;
+    margin-top: -458px;
+    padding-top: -100px;
+}
+
+#card-img-mongo {
+    height: 155px;
+}
+
+#card-body-mongo {
+    background-color: black;
+}
+
+#card-title-mongo {
+    font-family: 'Fugaz One', cursive;
+    color: red;
+}
+
+#card-text-mongo {
+    color: white;
+    font-family: 'ABeeZee', sans-serif;
+}
+
+#button-mongo {
+    color: black;
+    background-color: red;
+    font-family: 'Acme', sans-serif;
+    font-size: 20px;
+    width: 75px;
+    border: none;
+    text-decoration: underline;
+}
