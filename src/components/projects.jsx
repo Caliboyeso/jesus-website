@@ -460,7 +460,7 @@ export default class Projects extends React.Component {
             {/* A link that opens another tab and takes the user to the website */}
             <Button
             id="button-iready"
-            href="https://iready.s3-us-west-2.amazonaws.com/build/index.html" 
+            href="https://iready-app.herokuapp.com/" 
             target="_blank" 
             variant="primary"
             >
