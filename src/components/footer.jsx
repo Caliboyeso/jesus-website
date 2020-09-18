@@ -2,7 +2,7 @@ import React from "react";
 import codepen from "../img/codepen.png";
 import github from "../img/github.png";
 import linkedin from "../img/linkedin.png";
-import jesus from "./Jesus Resume.docx";
+import resume from "./jesus-resume.pdf";
 
 class Footer extends React.Component {
 
@@ -25,7 +25,7 @@ class Footer extends React.Component {
 							{/* Link to download resume */}
 							<a
 							id="resume"
-							href={jesus}
+							href={resume}
 							target="_blank"
 							rel="noopener noreferrer">
 							<img className="img-fluid" src={codepen} alt=""/>
